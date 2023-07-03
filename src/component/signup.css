@@ -1,0 +1,97 @@
+.sections{
+
+height: 100%;
+width: 50wh;
+background-color: whitesmoke;
+width: 40%;
+
+border: none;
+ border-radius: 1rem;
+ margin-left: 20rem;
+}
+.faces{
+    width: 50%;
+    
+}
+.page{
+    
+ margin-left: 5rem;
+}
+
+.signup{
+    display: flex;
+    margin-left: 5rem;
+    height: 6rem;
+}
+.toggle{
+margin-top: 2rem;
+margin-left: 13rem;
+}
+.firstclass{
+    display: flex;
+    gap: 5px;
+}
+.mobile{
+    width: 360px;
+    height: 2rem;
+    border-radius: 0.5rem;  
+}
+.firstName{
+    margin-top: 0px;
+    width: 600px;
+    height: 1.5rem;
+    border-radius:0.5rem ;
+}
+.surname{
+    margin-bottom: 10px;
+    width: 150px;
+    height: 1.5rem;
+    border-radius:0.5rem ;  
+}
+.new{
+    margin-top: 5px;
+    width: 360px;
+    height: 2rem;
+    border-radius: 0.5rem; 
+}
+.button{
+    width: 230px;
+    height: 2.5rem;
+    background-color: #42b72a;
+    color: #fff;
+    border-radius: 0.5rem;
+    margin-left: 4rem;
+    border: none;
+    text-align: center;
+}
+.date{
+
+    display: flex;
+    gap: 4px;
+    width: 100px;
+}
+.gender{
+   display: flex; 
+   gap: 4px;
+   width:100px ;
+}
+.female{
+    width:100px ;
+    height: 2rem;
+    display: flex;
+
+}
+.male{
+    width: 100px;
+    height: 2rem;
+    display: flex;
+}
+.custom{
+    width: 100px;
+    height: 2rem;
+    display: flex;
+}
+.form{
+    width: 100px;
+    height: 2rem; 
+}
